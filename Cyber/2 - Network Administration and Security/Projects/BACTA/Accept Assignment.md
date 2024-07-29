@@ -3,7 +3,7 @@ Click on the link to the GitHub Classroom assignment:
 
 https://classroom.github.com/a/ZX-p5hKr 
 
-Clone the repository to your computer using GitHub Desktop (or any method). Choose the newly created repository
+Clone the repository to your computer using GitHub Desktop (or any method). Choose the newly created repository                                           
 
 ![Clone the repository](/_admin/images/repoClone.png)
 
