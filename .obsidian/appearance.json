@@ -1,3 +1,12 @@
 {
+<<<<<<< HEAD
   "cssTheme": "AnuPpuccin"
+=======
+  "accentColor": "",
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "holocron"
+  ]
+>>>>>>> 9aed8d3e727e30c630a80b6d6c6cd54474f4437d
 }
