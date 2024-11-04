@@ -1,6 +1,7 @@
 
 Welcome to the Holocron - the central repository for IT subjects at LTC. 
 
+<<<<<<< HEAD
 <<<<<<< HEAD:LTC Subjects Front Page.md
 | Semester | Cyber Systems, ICT                                                                                                                          | Interactive Software Development                                                       | Robotics                                                                                               | Website Development<br>Remote Learning                                                   |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
@@ -16,5 +17,13 @@ Welcome to the Holocron - the central repository for IT subjects at LTC.
 | 3        |                                                                                                                                             | [Digital Solutions](ISD/3%20-%20Digital%20Solutions/Digital%20Solutions.md)            | [Application Of Robotics](Robotics/3%20-%20Application%20of%20Robotics/Application%20Of%20Robotics.md) |                                                                                  |
 | 4        |                                                                                                                                             | [ISD Project](ISD/4%20-%20Project/ISD%20Project.md)                                    | [Robotics Project](Robotics/4%20-%20Project/Robotics%20Project.md)                                     |                                                                                  |
 >>>>>>> 400f1b277c8e1330dc484795f3c6c44346257a25:Welcome to the Holocron.md
+=======
+| Semester | Cyber Systems, ICT                      | Interactive Software Development | Robotics                    | Website Development<br>Remote Learning |
+| -------- | --------------------------------------- | -------------------------------- | --------------------------- | -------------------------------------- |
+| 1        | [[Networking and Cyber Systems]]        | [[Space Invaders]]               | N/A                         | [[Digital Assets (Flask)]]             |
+| 2        | [[Network Administration and Security]] | [[First Person Shooter]]         | N/A                         | [[DigitalApplications-Flask]]          |
+| 3        |                                         | [[Digital Solutions]]            | [[Application Of Robotics]] |                                        |
+| 4        |                                         | [[ISD Project]]                  | [[Robotics Project]]        |                                        |
+>>>>>>> 402dd01d3d068b00bba934cfe5c74836b9183c17
 
 ![[commonBlocks#Contact Details]]

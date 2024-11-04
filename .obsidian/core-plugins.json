@@ -22,7 +22,11 @@
   "outline": true,
   "word-count": true,
   "slides": false,
+<<<<<<< HEAD
   "audio-recorder": false,
+=======
+  "audio-recorder": true,
+>>>>>>> 402dd01d3d068b00bba934cfe5c74836b9183c17
   "workspaces": false,
   "file-recovery": true,
   "publish": true,

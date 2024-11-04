@@ -32,7 +32,7 @@ tags:
 > [!danger]- Week 3
 > ![[semesterCalendarS2#School Events - Week 3]]
 > 
-> [Assessment Assistance](_sharedContent/Assessments2024S2/Task1.md)
+> [Assessment Assistance](Task1.md)
 > 
 > **Assessment Week**
 > You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.
@@ -118,8 +118,7 @@ tags:
 > [!info]- Week 11
 > ![[semesterCalendarS2#School Events - Week 11]]
 > #### Class Tasks
-> - Finalise Project
-> - [Assessment 2 - 2024S2](Robotics/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
+> - [[Cyber Challenge Planning]]
 > #### Theory
 > N/A
 > #### Practical
